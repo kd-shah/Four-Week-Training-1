@@ -1,0 +1,15 @@
+C:\Users\promact\Desktop\Tasks\Day 4\Task 2\PersonList\PersonList\bin\Debug\net7.0\PersonList.exe
+C:\Users\promact\Desktop\Tasks\Day 4\Task 2\PersonList\PersonList\bin\Debug\net7.0\PersonList.deps.json
+C:\Users\promact\Desktop\Tasks\Day 4\Task 2\PersonList\PersonList\bin\Debug\net7.0\PersonList.runtimeconfig.json
+C:\Users\promact\Desktop\Tasks\Day 4\Task 2\PersonList\PersonList\bin\Debug\net7.0\PersonList.dll
+C:\Users\promact\Desktop\Tasks\Day 4\Task 2\PersonList\PersonList\bin\Debug\net7.0\PersonList.pdb
+C:\Users\promact\Desktop\Tasks\Day 4\Task 2\PersonList\PersonList\obj\Debug\net7.0\PersonList.csproj.AssemblyReference.cache
+C:\Users\promact\Desktop\Tasks\Day 4\Task 2\PersonList\PersonList\obj\Debug\net7.0\PersonList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\promact\Desktop\Tasks\Day 4\Task 2\PersonList\PersonList\obj\Debug\net7.0\PersonList.AssemblyInfoInputs.cache
+C:\Users\promact\Desktop\Tasks\Day 4\Task 2\PersonList\PersonList\obj\Debug\net7.0\PersonList.AssemblyInfo.cs
+C:\Users\promact\Desktop\Tasks\Day 4\Task 2\PersonList\PersonList\obj\Debug\net7.0\PersonList.csproj.CoreCompileInputs.cache
+C:\Users\promact\Desktop\Tasks\Day 4\Task 2\PersonList\PersonList\obj\Debug\net7.0\PersonList.dll
+C:\Users\promact\Desktop\Tasks\Day 4\Task 2\PersonList\PersonList\obj\Debug\net7.0\refint\PersonList.dll
+C:\Users\promact\Desktop\Tasks\Day 4\Task 2\PersonList\PersonList\obj\Debug\net7.0\PersonList.pdb
+C:\Users\promact\Desktop\Tasks\Day 4\Task 2\PersonList\PersonList\obj\Debug\net7.0\PersonList.genruntimeconfig.cache
+C:\Users\promact\Desktop\Tasks\Day 4\Task 2\PersonList\PersonList\obj\Debug\net7.0\ref\PersonList.dll

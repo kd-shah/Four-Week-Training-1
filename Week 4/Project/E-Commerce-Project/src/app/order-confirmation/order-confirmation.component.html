@@ -1,0 +1,26 @@
+<!-- order-confirmation.component.html -->
+<div class="order">
+<h1>Order Confirmation</h1>
+
+<div>
+  <h2>Order Summary</h2>
+  <p><strong>Order Number:</strong> {{ orderNumber }}</p>
+  <p><strong>Shipping Details:</strong></p>
+  <p><strong>Name:</strong> {{ shippingDetails.name }}</p>
+  <p><strong>Address:</strong> {{ shippingDetails.address }}</p>
+  <p><strong>City:</strong> {{ shippingDetails.city }}</p>
+  <p><strong>Country:</strong> {{ shippingDetails.country }}</p>
+  <p><strong>Email:</strong> {{ shippingDetails.email }}</p>
+
+
+  
+
+  <h3>Order Items:</h3>
+  <ul>
+    <li *ngFor="let item of cartItems">{{ item.title }} - ${{ item.price }}</li>
+  </ul>
+
+  <p><strong>Total Price:</strong> ${{ totalPrice }}</p>
+</div>
+</div>
+

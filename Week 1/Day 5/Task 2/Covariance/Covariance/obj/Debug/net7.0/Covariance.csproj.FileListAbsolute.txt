@@ -1,0 +1,15 @@
+C:\Users\promact\Desktop\Tasks\Day 5\Task 2\Covariance\Covariance\bin\Debug\net7.0\Covariance.exe
+C:\Users\promact\Desktop\Tasks\Day 5\Task 2\Covariance\Covariance\bin\Debug\net7.0\Covariance.deps.json
+C:\Users\promact\Desktop\Tasks\Day 5\Task 2\Covariance\Covariance\bin\Debug\net7.0\Covariance.runtimeconfig.json
+C:\Users\promact\Desktop\Tasks\Day 5\Task 2\Covariance\Covariance\bin\Debug\net7.0\Covariance.dll
+C:\Users\promact\Desktop\Tasks\Day 5\Task 2\Covariance\Covariance\bin\Debug\net7.0\Covariance.pdb
+C:\Users\promact\Desktop\Tasks\Day 5\Task 2\Covariance\Covariance\obj\Debug\net7.0\Covariance.csproj.AssemblyReference.cache
+C:\Users\promact\Desktop\Tasks\Day 5\Task 2\Covariance\Covariance\obj\Debug\net7.0\Covariance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\promact\Desktop\Tasks\Day 5\Task 2\Covariance\Covariance\obj\Debug\net7.0\Covariance.AssemblyInfoInputs.cache
+C:\Users\promact\Desktop\Tasks\Day 5\Task 2\Covariance\Covariance\obj\Debug\net7.0\Covariance.AssemblyInfo.cs
+C:\Users\promact\Desktop\Tasks\Day 5\Task 2\Covariance\Covariance\obj\Debug\net7.0\Covariance.csproj.CoreCompileInputs.cache
+C:\Users\promact\Desktop\Tasks\Day 5\Task 2\Covariance\Covariance\obj\Debug\net7.0\Covariance.dll
+C:\Users\promact\Desktop\Tasks\Day 5\Task 2\Covariance\Covariance\obj\Debug\net7.0\refint\Covariance.dll
+C:\Users\promact\Desktop\Tasks\Day 5\Task 2\Covariance\Covariance\obj\Debug\net7.0\Covariance.pdb
+C:\Users\promact\Desktop\Tasks\Day 5\Task 2\Covariance\Covariance\obj\Debug\net7.0\Covariance.genruntimeconfig.cache
+C:\Users\promact\Desktop\Tasks\Day 5\Task 2\Covariance\Covariance\obj\Debug\net7.0\ref\Covariance.dll

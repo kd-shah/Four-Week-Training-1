@@ -1,0 +1,12 @@
+<body>
+    <div *ngIf="product" class="product-card">
+       
+        <h2>{{ product.title }}</h2>
+        <!-- <img [src]="product.imageUrl" [alt]="product.title" class="product-image"> -->
+        <p class="product-price">$ {{ product.price }}</p>
+        <p class="product-description">{{ product.description }}</p>
+    </div>
+        <button class="buy-now-button" (click)="addToCart(product)" routerLink="/cart">Buy Now</button>
+</body>
+
+  

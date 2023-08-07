@@ -1,0 +1,10 @@
+<form #todosForm = "ngForm" (ngSubmit)="getTodo(todosForm.value)">
+    <input type="number" ngModel name="userId" placeholder="Enter User Id"/>
+    <input type="text" ngModel name="title" placeholder="Enter Task Title"/>
+    <input type="boolean" ngModel name="completed" placeholder="Enter Task Status"/>
+    <button type="submit">Submit</button>
+</form>
+
+<app-parent></app-parent>
+<hr>
+<app-child></app-child>

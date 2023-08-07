@@ -1,0 +1,15 @@
+C:\Users\promact\Desktop\Tasks\Day 2\Task 2\ShortestPathAlgorithm\ShortestPathAlgorithm\bin\Debug\net7.0\ShortestPathAlgorithm.exe
+C:\Users\promact\Desktop\Tasks\Day 2\Task 2\ShortestPathAlgorithm\ShortestPathAlgorithm\bin\Debug\net7.0\ShortestPathAlgorithm.deps.json
+C:\Users\promact\Desktop\Tasks\Day 2\Task 2\ShortestPathAlgorithm\ShortestPathAlgorithm\bin\Debug\net7.0\ShortestPathAlgorithm.runtimeconfig.json
+C:\Users\promact\Desktop\Tasks\Day 2\Task 2\ShortestPathAlgorithm\ShortestPathAlgorithm\bin\Debug\net7.0\ShortestPathAlgorithm.dll
+C:\Users\promact\Desktop\Tasks\Day 2\Task 2\ShortestPathAlgorithm\ShortestPathAlgorithm\bin\Debug\net7.0\ShortestPathAlgorithm.pdb
+C:\Users\promact\Desktop\Tasks\Day 2\Task 2\ShortestPathAlgorithm\ShortestPathAlgorithm\obj\Debug\net7.0\ShortestPathAlgorithm.csproj.AssemblyReference.cache
+C:\Users\promact\Desktop\Tasks\Day 2\Task 2\ShortestPathAlgorithm\ShortestPathAlgorithm\obj\Debug\net7.0\ShortestPathAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\promact\Desktop\Tasks\Day 2\Task 2\ShortestPathAlgorithm\ShortestPathAlgorithm\obj\Debug\net7.0\ShortestPathAlgorithm.AssemblyInfoInputs.cache
+C:\Users\promact\Desktop\Tasks\Day 2\Task 2\ShortestPathAlgorithm\ShortestPathAlgorithm\obj\Debug\net7.0\ShortestPathAlgorithm.AssemblyInfo.cs
+C:\Users\promact\Desktop\Tasks\Day 2\Task 2\ShortestPathAlgorithm\ShortestPathAlgorithm\obj\Debug\net7.0\ShortestPathAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\promact\Desktop\Tasks\Day 2\Task 2\ShortestPathAlgorithm\ShortestPathAlgorithm\obj\Debug\net7.0\ShortestPathAlgorithm.dll
+C:\Users\promact\Desktop\Tasks\Day 2\Task 2\ShortestPathAlgorithm\ShortestPathAlgorithm\obj\Debug\net7.0\refint\ShortestPathAlgorithm.dll
+C:\Users\promact\Desktop\Tasks\Day 2\Task 2\ShortestPathAlgorithm\ShortestPathAlgorithm\obj\Debug\net7.0\ShortestPathAlgorithm.pdb
+C:\Users\promact\Desktop\Tasks\Day 2\Task 2\ShortestPathAlgorithm\ShortestPathAlgorithm\obj\Debug\net7.0\ShortestPathAlgorithm.genruntimeconfig.cache
+C:\Users\promact\Desktop\Tasks\Day 2\Task 2\ShortestPathAlgorithm\ShortestPathAlgorithm\obj\Debug\net7.0\ref\ShortestPathAlgorithm.dll

@@ -1,0 +1,15 @@
+C:\Users\promact\Desktop\Tasks\Day 5\Task 4\AsyncAwait\AsyncAwait\bin\Debug\net7.0\AsyncAwait.exe
+C:\Users\promact\Desktop\Tasks\Day 5\Task 4\AsyncAwait\AsyncAwait\bin\Debug\net7.0\AsyncAwait.deps.json
+C:\Users\promact\Desktop\Tasks\Day 5\Task 4\AsyncAwait\AsyncAwait\bin\Debug\net7.0\AsyncAwait.runtimeconfig.json
+C:\Users\promact\Desktop\Tasks\Day 5\Task 4\AsyncAwait\AsyncAwait\bin\Debug\net7.0\AsyncAwait.dll
+C:\Users\promact\Desktop\Tasks\Day 5\Task 4\AsyncAwait\AsyncAwait\bin\Debug\net7.0\AsyncAwait.pdb
+C:\Users\promact\Desktop\Tasks\Day 5\Task 4\AsyncAwait\AsyncAwait\obj\Debug\net7.0\AsyncAwait.csproj.AssemblyReference.cache
+C:\Users\promact\Desktop\Tasks\Day 5\Task 4\AsyncAwait\AsyncAwait\obj\Debug\net7.0\AsyncAwait.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\promact\Desktop\Tasks\Day 5\Task 4\AsyncAwait\AsyncAwait\obj\Debug\net7.0\AsyncAwait.AssemblyInfoInputs.cache
+C:\Users\promact\Desktop\Tasks\Day 5\Task 4\AsyncAwait\AsyncAwait\obj\Debug\net7.0\AsyncAwait.AssemblyInfo.cs
+C:\Users\promact\Desktop\Tasks\Day 5\Task 4\AsyncAwait\AsyncAwait\obj\Debug\net7.0\AsyncAwait.csproj.CoreCompileInputs.cache
+C:\Users\promact\Desktop\Tasks\Day 5\Task 4\AsyncAwait\AsyncAwait\obj\Debug\net7.0\AsyncAwait.dll
+C:\Users\promact\Desktop\Tasks\Day 5\Task 4\AsyncAwait\AsyncAwait\obj\Debug\net7.0\refint\AsyncAwait.dll
+C:\Users\promact\Desktop\Tasks\Day 5\Task 4\AsyncAwait\AsyncAwait\obj\Debug\net7.0\AsyncAwait.pdb
+C:\Users\promact\Desktop\Tasks\Day 5\Task 4\AsyncAwait\AsyncAwait\obj\Debug\net7.0\AsyncAwait.genruntimeconfig.cache
+C:\Users\promact\Desktop\Tasks\Day 5\Task 4\AsyncAwait\AsyncAwait\obj\Debug\net7.0\ref\AsyncAwait.dll

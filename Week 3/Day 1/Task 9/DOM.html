@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="DOM.css">
+    <title>Color Text</title>
+</head>
+<body>
+    <script src = "DOM.js"></script>
+    <input id="text" placeholder="Enter Text here"/>
+    <select name="color" id="select" onchange="onChangeColor()">
+        
+        <option selected>Default</option>
+        <option value="blue">Blue</option>
+        <option value="red">Red</option>
+        <option value="green">Green</option>
+        <option value="yellow">Yellow</option>
+
+    </select>
+    <button onclick="generate()">Generate Text</button>
+    
+    <p id="para" style="color: document"></p>
+
+</body>
+</html>

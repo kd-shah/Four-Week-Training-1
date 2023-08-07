@@ -1,0 +1,23 @@
+<!-- cart.component.html -->
+<div class="cart">
+<h1>Shopping Cart</h1>
+
+<div *ngIf="cartItems.length === 0">Your cart is empty.</div>
+
+<div *ngFor="let item of cartItems">
+  <div class="cart-item">
+    <p>{{ item.title }}</p>
+    <p>Price: $ {{ item.price }}</p>
+    <div class="flex">
+    <input type="number" [(ngModel)]="item.quantity" (change)="adjustQuantity(item.id, item.quantity)" >
+    <button (click)="removeFromCart(item.id)">Remove</button>
+</div>
+  </div>
+</div>
+
+<div *ngIf="cartItems.length > 0">
+  <h2>Total Price: $ {{ totalCartPrice }}</h2>
+</div>
+<button routerLink="/checkout">Checkout</button>
+</div>
+

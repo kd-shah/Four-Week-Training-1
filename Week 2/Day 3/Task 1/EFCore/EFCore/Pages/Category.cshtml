@@ -1,0 +1,31 @@
+﻿@page
+@model List<EFCore.Models.Category>
+
+
+<h2>Category List</h2>
+
+<ul>
+    @foreach (var category in Model)
+    {
+    <li>
+        <a asp-page="./Category" asp-route-id="@category.Id">Edit</a>
+        <form method="post" asp-page-handler="Delete" asp-route-id="@category.Id" onsubmit="return confirm('Are you sure you want to delete this category?');">
+            <button type="submit" class="btn btn-link">Delete</button>
+        </form>
+        @category.Name
+    </li>
+    }
+</ul>
+
+@*<h2>Create/Edit Category</h2>
+
+<form method="post">
+    <input type="hidden" asp-for="Category.Id" />
+
+    <div class="form-group">
+        <label asp-for="Category.Name"></label>
+        <input asp-for="Category.Name" class="form-control" />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Save</button>
+</form>*@

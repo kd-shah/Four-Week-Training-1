@@ -1,0 +1,48 @@
+.checkout{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+form{
+    width: 20%;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+button{
+    padding: 10px;
+    background-color: orange;
+    outline: none;
+    border: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    /* font-weight: 400; */
+    /* width: 100px; */
+    border-radius: 30px;
+    color: white;
+    font-size: 18px;
+    cursor: pointer; 
+}
+input{
+    padding: 10px;
+    border-radius: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    outline: none;
+    border: none;
+    font-size: 18px;
+    color: orange;
+}
+.main{
+    background-color: beige;
+    color: orange;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 20px;
+    font-size: 20px;
+}
+h1{
+    text-align: center;
+}

@@ -1,0 +1,30 @@
+<!-- product-listing.component.html -->
+<div class="body">
+<div class="nav">
+<h1 routerLink="/products" routerLinkActive="">SHOP CART</h1>
+<div class="search">
+<div class="type">
+<i class="fa-solid fa-magnifying-glass" style= "padding: 10px;"></i>
+<input type="text" [(ngModel)]="search"  placeholder="Search by name..." >
+</div>
+<button type="button" (click)="filterProducts()">Filter</button>
+<a routerLink="/cart"><i class="fa-solid fa-cart-shopping" style="color: white; font-size: 20px;"></i></a>
+</div>
+</div>
+<div class="product-list">
+    <div class="product-card" *ngFor="let product of filteredProducts">
+    <a [routerLink]="['/products', product.id]">
+  <!-- <img [src]="product.imageUrl" [alt]="product.title" class="product-image"> -->
+  <!-- <img [src] ="product.imageUrl" class="product_image"/> -->
+  <div class="center">
+  <img src={{product.image}} class="product-image" alt="image not found"/>
+  <!-- <p>{{product.imageUrl}}</p> -->
+  <p class="product-name">{{ product.title }}</p>
+  <p class="product-price">$ {{ product.price }}</p>
+</div>
+  
+  <!-- <button>Buy Now</button> -->
+</a>
+</div>
+
+

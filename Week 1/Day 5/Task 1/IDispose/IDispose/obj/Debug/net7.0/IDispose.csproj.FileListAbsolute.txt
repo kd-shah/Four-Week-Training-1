@@ -1,0 +1,15 @@
+C:\Users\promact\Desktop\Tasks\Day 5\Task 1\IDispose\IDispose\obj\Debug\net7.0\IDispose.csproj.AssemblyReference.cache
+C:\Users\promact\Desktop\Tasks\Day 5\Task 1\IDispose\IDispose\obj\Debug\net7.0\IDispose.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\promact\Desktop\Tasks\Day 5\Task 1\IDispose\IDispose\obj\Debug\net7.0\IDispose.AssemblyInfoInputs.cache
+C:\Users\promact\Desktop\Tasks\Day 5\Task 1\IDispose\IDispose\obj\Debug\net7.0\IDispose.AssemblyInfo.cs
+C:\Users\promact\Desktop\Tasks\Day 5\Task 1\IDispose\IDispose\obj\Debug\net7.0\IDispose.csproj.CoreCompileInputs.cache
+C:\Users\promact\Desktop\Tasks\Day 5\Task 1\IDispose\IDispose\bin\Debug\net7.0\IDispose.exe
+C:\Users\promact\Desktop\Tasks\Day 5\Task 1\IDispose\IDispose\bin\Debug\net7.0\IDispose.deps.json
+C:\Users\promact\Desktop\Tasks\Day 5\Task 1\IDispose\IDispose\bin\Debug\net7.0\IDispose.runtimeconfig.json
+C:\Users\promact\Desktop\Tasks\Day 5\Task 1\IDispose\IDispose\bin\Debug\net7.0\IDispose.dll
+C:\Users\promact\Desktop\Tasks\Day 5\Task 1\IDispose\IDispose\bin\Debug\net7.0\IDispose.pdb
+C:\Users\promact\Desktop\Tasks\Day 5\Task 1\IDispose\IDispose\obj\Debug\net7.0\IDispose.dll
+C:\Users\promact\Desktop\Tasks\Day 5\Task 1\IDispose\IDispose\obj\Debug\net7.0\refint\IDispose.dll
+C:\Users\promact\Desktop\Tasks\Day 5\Task 1\IDispose\IDispose\obj\Debug\net7.0\IDispose.pdb
+C:\Users\promact\Desktop\Tasks\Day 5\Task 1\IDispose\IDispose\obj\Debug\net7.0\IDispose.genruntimeconfig.cache
+C:\Users\promact\Desktop\Tasks\Day 5\Task 1\IDispose\IDispose\obj\Debug\net7.0\ref\IDispose.dll

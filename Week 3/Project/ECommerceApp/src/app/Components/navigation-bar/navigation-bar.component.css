@@ -1,0 +1,19 @@
+.nav {
+    display: flex;
+    gap: 40px;
+    
+    margin-top: -10px;
+    margin-left: -10px;
+    background-color: rgb(255, 154, 240);
+}
+
+.nav_title {
+    text-decoration: none;
+    font-size: 25px;
+    color: rgb(0, 0, 0);
+    padding: 15px 10px;
+}
+
+.nav_title:hover{
+    background-color: bisque;
+}

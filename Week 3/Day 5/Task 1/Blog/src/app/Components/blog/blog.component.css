@@ -1,0 +1,27 @@
+.blog-container{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 25px;
+    background-color: black ;
+    padding: 25px 20px;
+    margin-left: -10px;
+}
+.blogs{
+    flex: 1 1 300px;
+    background-color: rgb(74, 74, 74);
+    padding: 5px 15px;
+    border-radius: 10px;
+}
+.blogs:hover{
+    transform: scale(1.05);
+    background-color: rgb(100, 99, 99);
+    border: 1px solid bisque ;
+}
+.blog_title{
+    color: rgb(114, 221, 211);
+    /* color: bisque; */
+    text-align: center;
+}
+.blog_body{
+    color: azure;
+}

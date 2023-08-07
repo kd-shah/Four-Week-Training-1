@@ -1,0 +1,15 @@
+C:\Users\promact\Desktop\Tasks\Day 4\Task 1\Stack\Stack\bin\Debug\net7.0\Stack.exe
+C:\Users\promact\Desktop\Tasks\Day 4\Task 1\Stack\Stack\bin\Debug\net7.0\Stack.deps.json
+C:\Users\promact\Desktop\Tasks\Day 4\Task 1\Stack\Stack\bin\Debug\net7.0\Stack.runtimeconfig.json
+C:\Users\promact\Desktop\Tasks\Day 4\Task 1\Stack\Stack\bin\Debug\net7.0\Stack.dll
+C:\Users\promact\Desktop\Tasks\Day 4\Task 1\Stack\Stack\bin\Debug\net7.0\Stack.pdb
+C:\Users\promact\Desktop\Tasks\Day 4\Task 1\Stack\Stack\obj\Debug\net7.0\Stack.csproj.AssemblyReference.cache
+C:\Users\promact\Desktop\Tasks\Day 4\Task 1\Stack\Stack\obj\Debug\net7.0\Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\promact\Desktop\Tasks\Day 4\Task 1\Stack\Stack\obj\Debug\net7.0\Stack.AssemblyInfoInputs.cache
+C:\Users\promact\Desktop\Tasks\Day 4\Task 1\Stack\Stack\obj\Debug\net7.0\Stack.AssemblyInfo.cs
+C:\Users\promact\Desktop\Tasks\Day 4\Task 1\Stack\Stack\obj\Debug\net7.0\Stack.csproj.CoreCompileInputs.cache
+C:\Users\promact\Desktop\Tasks\Day 4\Task 1\Stack\Stack\obj\Debug\net7.0\Stack.dll
+C:\Users\promact\Desktop\Tasks\Day 4\Task 1\Stack\Stack\obj\Debug\net7.0\refint\Stack.dll
+C:\Users\promact\Desktop\Tasks\Day 4\Task 1\Stack\Stack\obj\Debug\net7.0\Stack.pdb
+C:\Users\promact\Desktop\Tasks\Day 4\Task 1\Stack\Stack\obj\Debug\net7.0\Stack.genruntimeconfig.cache
+C:\Users\promact\Desktop\Tasks\Day 4\Task 1\Stack\Stack\obj\Debug\net7.0\ref\Stack.dll

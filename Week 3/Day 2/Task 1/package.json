@@ -1,0 +1,16 @@
+{
+  "name": "task-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "TsBasics.js",
+  "scripts": {
+    "start": "live-server" 
+    
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.4.4"
+  }
+}
